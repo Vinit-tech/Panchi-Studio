@@ -1,0 +1,31 @@
+import React from "react";
+
+const About = () =>{
+    return(
+        <>
+         <div class="define-about" id="About">
+            <div class="container">
+                <h2> About Company</h2>
+                <div class="content">
+                    <div class="content-item">
+                        <img src="./img/about.jpg"/>
+                    </div>
+                    <div class="content-item">
+                        <h3>Parikh mills is a growing company in export business. 
+                            We are exporting varieties of comodities and raw materials to different countries.</h3>
+                        <p> We are providing raw materials and spices to India-level and middle-eastern countries. 
+                            we are known for our exporting services and products from local vendors which provides good quality of products to customer
+                            and we become helping hands for our local vendors.</p>
+                        <h5>Our Vision</h5>
+                        <p>We have a great vision of providing exports services to global-level and providing good quality of products to corner of the world.</p>
+                        <h5>Our Mission</h5>
+                        <p>We want to provide the local vendors their deeds. We want to grow local vendors to survive in the business and providing them their hardwork part.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </>
+    );
+};
+
+export default About;
