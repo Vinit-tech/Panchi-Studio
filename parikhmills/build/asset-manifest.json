@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.283de8c2.css",
+    "main.js": "/static/js/main.41145cc1.js",
+    "static/js/498.cda8f6a2.chunk.js": "/static/js/498.cda8f6a2.chunk.js",
+    "static/js/703.8597139d.chunk.js": "/static/js/703.8597139d.chunk.js",
+    "static/js/363.94ec7fa9.chunk.js": "/static/js/363.94ec7fa9.chunk.js",
+    "static/media/parikhmills.pdf": "/static/media/parikhmills.0679e979b29276fee43e.pdf",
+    "static/media/about-cls.jpg": "/static/media/about-cls.5ef54307a46c0338a337.jpg",
+    "static/media/slide1.jpg": "/static/media/slide1.dd3a1ad397e1870bf44d.jpg",
+    "static/media/slide-4.png": "/static/media/slide-4.9d2584fba797e1fc3e6f.png",
+    "static/media/slide-3.jpg": "/static/media/slide-3.7009de7d64642a1969b9.jpg",
+    "static/media/slide2.jpg": "/static/media/slide2.79a19a1d1810e954d864.jpg",
+    "index.html": "/index.html",
+    "main.283de8c2.css.map": "/static/css/main.283de8c2.css.map",
+    "main.41145cc1.js.map": "/static/js/main.41145cc1.js.map",
+    "498.cda8f6a2.chunk.js.map": "/static/js/498.cda8f6a2.chunk.js.map",
+    "703.8597139d.chunk.js.map": "/static/js/703.8597139d.chunk.js.map",
+    "363.94ec7fa9.chunk.js.map": "/static/js/363.94ec7fa9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.283de8c2.css",
+    "static/js/main.41145cc1.js"
+  ]
+}
